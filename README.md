@@ -1,2 +1,2 @@
-# nba_sixth_man
-A repository analyzing the 6th man in the NBA using EXCEL, DAX, and POWERBI.
+# nba_fake_awards
+A repository for gleaning fun/interesting stats within the NBA, and the creation of fake NBA awards. Uses PYTHON and POWERBI.
